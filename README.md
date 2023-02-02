@@ -11,4 +11,4 @@
 9. git checkout master
 10. git branch -d rama-heroes
 11. git push
-12. git commit -am "mensaje" // esto nos permite hacer un git add . y un git commit m a la vez
+12. git commit -am "mensaje" // esto nos permite hacer un git add . y un git commit m a la vez xd
